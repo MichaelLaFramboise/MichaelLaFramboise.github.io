@@ -1,5 +1,5 @@
 ---
-title: What I've done to date!
+title: <center>What I've done to date!</center>
 feature_text: |
   ## <center>Michael LaFramboise</center>
   Engineering, PM, Entrepreneurship 
