@@ -7,15 +7,17 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---
 
-Below is a summary of my education and career to date. I've worked in several engineering and PM positions in the automotive and semiconductor/photonics industry, have founded a startup in the Web3 SaaS space, and have done research in photonics. My technical interests are mutlivariate and span across mechanics, electronics and software. 
+I've worked in several research engineering and PM positions in the automotive and semiconductor photonics industries and have founded a startup in the Web3 SaaS space. My technical interests are mutlivariate and span across mechanics, electronics and software. 
 
-Most recently I'm working as a Sr. PM-T at Amazon in their connected devices and cloud services division, and I'm a student at UC Berkeley's MBA/MEng programs specializing in robotics and AI systems.
+Most recently I'm working as a Sr. PM-T at Amazon in their connected devices and cloud services division while studying at UC Berkeley's MBA/MEng program specializing in robotics and AI systems.
 
 [Jekyll](https://jekyllrb.com/) 
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} 
 ## Fellowships
-- TSMC Innovation fellow
+- TSMC Innovation fellow - 2023
+- Consortium fellow - 2022-2024
+- Trione entrepreneurship fellow - 2023
 ## Education
 ## Work
 
