@@ -4,3 +4,12 @@ styles: true
 ---
 
 @import "alembic";
+.feature-image {
+  background-image: url('{{ page.feature_image }}');
+  background-size: cover;
+  background-position: left;
+}
+
+.feature-text-white {
+  color: white;
+}
