@@ -3,7 +3,7 @@ title: <center>What I've done to date</center>
 feature_text: |
   ## <center>Michael LaFramboise</center>
   Emerging technologies and commercialization, history, and lifting heavy
-feature_image: "https://i.imgur.com/3NIXpKd.jpg" 
+feature_image: "(https://imgur.com/a/Y5hHK8b)" 
 
 ---
 
