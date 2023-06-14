@@ -1,13 +1,11 @@
 ---
-layout: default
-title: "What I've done to date"
-styles: 
-  - assets/styles.scss
+title: <center>What I've done to date</center>
+feature_text: |
+  ## <center>Michael LaFramboise</center>
+  Emerging technologies and commercialization, history, and lifting heavy
+feature_image: "https://i.imgur.com/3NIXpKd.jpg"
+
 ---
-
-## <center><span class="feature-text-white">Michael LaFramboise</span></center>
-<center><span class="feature-text-white">Emerging technologies and commercialization, history, and lifting heavy</span></center>
-
 
 
 I've worked in several research engineering and PM positions in the automotive and semiconductor photonics industries and have founded a startup in the Web3 SaaS space. My technical interests are mutlivariate and span across mechanics, electronics and software. 
