@@ -3,7 +3,7 @@ title: <center>What I've done to date!</center>
 feature_text: |
   ## <center>Michael LaFramboise</center>
   Interested in emerging technologies and commercialization, history, and lifting heavy
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://picsum.photos/1300/400?image=989" "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
