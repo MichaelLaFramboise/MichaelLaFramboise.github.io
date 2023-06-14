@@ -1,5 +1,5 @@
 ---
-title: <center><span style=\"color: white;\">What I've done to date</span></center>
+title: <center>What I've done to date</center>
 feature_text: |
   ## <center>Michael LaFramboise</center>
   Emerging technologies and commercialization, history, and lifting heavy
