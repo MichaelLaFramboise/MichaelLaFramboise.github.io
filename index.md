@@ -1,7 +1,7 @@
 ---
 title: <center>What I've done to date</center>
 feature_text: |
-  ## <center><p style="color:#FFFFFF"> Michael LaFramboise </p></center>
+  ## <center><span style="color: red; font-weight: bold;"> Michael LaFramboise </span></center>
   Emerging technologies and commercialization, history, and lifting heavy
 feature_image: "https://i.imgur.com/3NIXpKd.jpg"
 
