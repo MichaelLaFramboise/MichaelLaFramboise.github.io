@@ -1,8 +1,8 @@
 ---
 title: <center>What I've done to date</center>
 feature_text: |
-  ## <center><span style="color: white; font-weight: bold;"> Michael LaFramboise </span></center>
-feature_image: "https://i.imgur.com/3NIXpKd.jpg"
+  ## <center><span style="color: black; font-weight: bold;"> Michael LaFramboise </span></center>
+feature_image: "https://i.imgur.com/j4T5YRs.jpg"
 
 ---
 
