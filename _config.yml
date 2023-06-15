@@ -124,7 +124,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Articles
-  url: /Blog/
+  url: /blog/
 - title: Lifting/Fitness
   url: /lifting_fitness/
 - title: Search
