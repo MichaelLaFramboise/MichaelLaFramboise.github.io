@@ -8,7 +8,11 @@ aside: true
 ---
 
 # Heading 1
+Lifting journey
 
+In 2015 I weighed ~140 lbs at 5ft11in. I hadn't lifted a day in my life and decided I wanted to become huge. 
+
+After finding a lifting setup on 
 ## Heading 2
 
 ### Heading 3
