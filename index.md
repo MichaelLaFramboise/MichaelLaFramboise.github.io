@@ -1,5 +1,5 @@
 ---
-title: <center>What I've done to date</center>
+title: <center>Experience to date</center>
 feature_text: |
   ## <center><span style="color: black; font-weight: bold;"> Michael LaFramboise </span></center>
 feature_image: "https://i.imgur.com/j4T5YRs.jpg"
@@ -13,7 +13,7 @@ Most recently I'm working as a Sr. PM-T at Amazon in their connected devices and
 
 [Jekyll](https://jekyllrb.com/) 
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} 
+{% include button.html text="Linkedin" icon="" link="https://www.linkedin.com/in/michael-laframboise/" color="#0366d6" %} 
 ## Fellowships
 - TSMC Innovation fellow - 2023
 - Consortium fellow - 2022-2024
