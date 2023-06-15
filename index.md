@@ -14,8 +14,6 @@ Most recently I'm working as a Sr. PM-T at Amazon in their connected devices and
 
 As of January 2023 I stepped away from 0xygen.io, a web3 startup I had started with a friend of mine, to work on new ideas.
 
-[Jekyll](https://jekyllrb.com/) 
-
 {% include button.html text="Linkedin" icon="" link="https://www.linkedin.com/in/michael-laframboise/" color="#0366d6" %} 
 
 
