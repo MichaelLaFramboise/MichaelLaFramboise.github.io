@@ -5,5 +5,5 @@
 - Trione entrepreneurship fellow - 2023
 ## Education
 University of California, Berkeley - MBA/MEng, Robotics and AI systems 2024
-University of Michigan, Ann Arbor - MEng, Systems Engineering - Optoelectronics 2021
+University of Michigan, Ann Arbor - MEng, Systems Engineering - Photonics 2021
 Case Western Reserve University - BSE, Mechanical Engineering 2018
