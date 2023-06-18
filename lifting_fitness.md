@@ -20,7 +20,7 @@ aside: true
 - Please email me with advice on changing my routine, things that have worked well for you, etc. michaeljlaframboise@gmail.com
 
 
-| Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| Monday | Tuesday | Wednesday |  Thursday | Friday | Saturday | Sunday |
 |--------|---------|-----------|----------|--------|----------|--------|
 | 5X5 squat | Run or sport (tennis or soccer if possible) | 5X5 bench | Run or sport (tennis or soccer if possible) | 5X1 deadlift | Run or sport (tennis or soccer if possible) | Praise the lord |
 | 5X5 barbell row | | 3X10 shrug | | 5X5 skull crushers | | |
