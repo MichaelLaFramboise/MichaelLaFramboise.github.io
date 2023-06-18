@@ -18,51 +18,14 @@ aside: true
 # Routine
 - All 5X5 I try to do heavy
 - Please email me with advice on changing my routine, things that have worked well for you, etc. michaeljlaframboise@gmail.com
+---
+| Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+|--------|---------|-----------|----------|--------|----------|--------|
+| 5X5 squat | Run or sport (tennis or soccer if possible) | 5X5 bench | Run or sport (tennis or soccer if possible) | 5X1 deadlift | Run or sport (tennis or soccer if possible) | Praise the lord |
+| 5X5 barbell row | | 3X10 shrug | | 5X5 skull crushers | | |
+| 5X5 overhead press | | 3X10 front fly | | 5X5 barbell curl | | |
+| 5X5 barbell curl | | 3X10 lateral fly | | 3X3 bench heavy (10-20lbs higher than 5X5 weight) | | |
 
-- Monday:
-5X5 squat
-
-5X5 barbell row
-
-5X5 overhead press
-
-5X5 barbell curl
-
-- Tuesday:
-
-Run or sport (tennis or soccer if possible)
-
-- Wednesday:
-
-5X5 bench
-
-3X10 shrug
-
-3X10 front fly
-
-3X10 lateral fly
-
-- Thursday:
-
-Run or sport (tennis or soccer if possible)
-
-- Friday:
-
-5X1 deadlift
-
-5X5 skull crushers
-
-5X5 barbell curl
-
-3X3 bench heavy (10-20lbs higher than 5X5 weight)
-
-- Saturday:
-
-Run or sport (tennis or soccer if possible)
-
-- Sunday:
-
-Praise the lord
 
 # 1 rep max
 
