@@ -1,7 +1,7 @@
 ---
 title: <center>Experience</center>
 feature_text: |
-  ## <center><span style="color: white; font-weight: bold;"> Experience and Projects </span></center>
+  ## <span style="color: white; font-weight: bold;"> Experience and Projects </span>
 feature_image: "https://i.imgur.com/3NIXpKd.jpg"
 
 ---
