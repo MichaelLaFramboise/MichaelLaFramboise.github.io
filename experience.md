@@ -1,6 +1,6 @@
 ---
 ## Fellowships
-- TSMC Innovation fellow - 2022 - 2024
+- TSMC Innovation fellow - 2022 - 2024 [Fung institute announcement](https://funginstitute.berkeley.edu/news/2023-mba-meng-taiwan-semiconductor-manufacturing-fellowship/)
 - Consortium fellow - 2022-2024
 - Trione entrepreneurship fellow - 2023
 - Patrick DeNeale rennaisance fellow - 2023 - 2024
