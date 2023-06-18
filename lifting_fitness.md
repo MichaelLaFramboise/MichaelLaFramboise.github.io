@@ -1,7 +1,6 @@
 ---
 title: <center>Lifting and fitness journey</center>
 feature_text: |
-  A path to mass
 feature_image: "https://i.imgur.com/jZonLHo.jpg"
 excerpt: ""
 aside: true
