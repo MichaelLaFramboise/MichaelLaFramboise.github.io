@@ -1,4 +1,12 @@
 ---
+---
+title: <center>Experience</center>
+feature_text: |
+  ## <center><span style="color: black; font-weight: bold;"> Experience and Projects</span></center>
+feature_image: "https://i.imgur.com/3NIXpKd.jpg"
+
+---
+
 ## Fellowships
 - TSMC Innovation fellow - 2022 - 2024 [Fung institute announcement](https://funginstitute.berkeley.edu/news/2023-mba-meng-taiwan-semiconductor-manufacturing-fellowship/)
 - Consortium fellow - 2022-2024
