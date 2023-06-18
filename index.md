@@ -1,5 +1,5 @@
 ---
-title: <center>It's ya boi</center>
+title: <center></center>
 feature_text: |
   ## <center><span style="color: black; font-weight: bold;"> Michael LaFramboise </span></center>
 feature_image: "https://i.imgur.com/j4T5YRs.jpg"
