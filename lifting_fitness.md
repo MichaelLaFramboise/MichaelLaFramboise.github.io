@@ -1,14 +1,13 @@
 ---
 title: <center>Lifting and fitness journey</center>
 feature_text: |
-  A demo of Markdown and HTML includes
+  A path to mass
 feature_image: "https://i.imgur.com/jZonLHo.jpg"
-excerpt: "Path to mass"
+excerpt: ""
 aside: true
 ---
 
 
-# Lifting journey
 
 - In 2015 I weighed ~140 lbs at 5ft11in. I hadn't lifted a day in my life and decided I wanted to become huge. 
 
