@@ -1,5 +1,5 @@
 ---
-title: <center></center>
+title: 
 feature_text: |
   ## <span style="color: white; font-weight: bold;"> Experience and Projects </span>
 feature_image: "https://i.imgur.com/3NIXpKd.jpg"
