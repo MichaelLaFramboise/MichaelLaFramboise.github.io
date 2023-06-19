@@ -10,7 +10,7 @@ Thanks for checking out my personal site. Here I am posting all of my experience
 
 I'm an engineer by training, and am passionate about emerging technologies and their commercialization. My technical interests span mechanics, electronics and physics. I've worked in several research engineering and PM positions in the automotive and semiconductor photonics industries and have founded a startup in the Web3 SaaS space.  
 
-As of January 2023 I stepped away from [0xygen.io](https://www.0xygen.io/), a web3 startup I had started with a friend of mine, to work on new ideas.
+Starting late 2021, some friends and I built [0xygen.io](https://www.0xygen.io/), a web3 startup developing an API gaming service
 
 Most recently I'm working as a Sr. PM-T at Amazon in their connected devices and cloud services division while studying at UC Berkeley's MBA/MEng program specializing in robotics and AI systems.
 
