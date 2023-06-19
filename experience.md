@@ -12,15 +12,17 @@ feature_image: "https://i.imgur.com/3NIXpKd.jpg"
 ---
 
 - 0xygen.io, Co-Founder and CPO - 2021 to 2023
-| - Started and built web3 game API service to turn in-game assets into NFTs and vice-versa.
 
-| - Brought on 4 developers, sold mid 5-figures of product and integrated company with our biggest client. Exited in 2023.
+|   - Started and built web3 game API service to turn in-game assets into NFTs and vice-versa.
+
+|   - Brought on 4 developers, sold mid 5-figures of product and integrated company with our biggest client. Exited in 2023.
 
 ---
 - Coherent, inc 2020-2022 - Various Semiconductor and photonics engineering and commercial sales management positions
-| - Led the development of multi-million dollar UV laser material processing systems
 
-| - $20MM ARR in commercial sales my last 12 months with the company
+|   - Led the development of multi-million dollar UV laser material processing systems
+
+|   - $20MM ARR in commercial sales my last 12 months with the company
 
 
 ## Fellowships
