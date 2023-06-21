@@ -12,7 +12,7 @@ aside: true
 
 - I found the stronglifts 5X5 setup and began eating >3k calories a day. 
 
-- As of June 2023 I'm at 185 lbs, down from 191 lbs at my heaviest in January 2023. ~15% bodyfat I would say. 
+- As of June 2023 I'm at 185 lbs, down from 191 lbs at my heaviest in January 2023. 16.6% bodyfat.
 
 # Routine
 - All 5X5 I try to do heavy
