@@ -5,11 +5,7 @@ feature_text: |
 feature_image: "https://i.imgur.com/3NIXpKd.jpg"
 
 ---
-
-## Experiences
---
 - Amazon, Sr. PM-T - Connected devices and cloud services - 2023 to present
---
 
 - 0xygen.io, Co-Founder and CPO - 2021 to 2023
 
