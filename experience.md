@@ -5,9 +5,10 @@ feature_text: |
 feature_image: "https://i.imgur.com/3NIXpKd.jpg"
 
 ---
-- Amazon, Sr. PM-T - Connected devices and cloud services - 2023 to present
 
-- 0xygen.io, Co-Founder and CPO - 2021 to 2023
+### - Amazon, Sr. PM-T - Connected devices and cloud services - 2023 to present
+---
+### - 0xygen.io, Co-Founder and CPO - 2021 to 2023
 
 |   - Started and built web3 game API service to turn in-game assets into NFTs and vice-versa.
 
@@ -16,7 +17,7 @@ feature_image: "https://i.imgur.com/3NIXpKd.jpg"
 
 --
 
-- Coherent, inc 2020-2022 - Various Semiconductor and photonics engineering and commercial sales management positions
+### - Coherent, inc 2020-2022 - Various Semiconductor and photonics engineering and commercial sales management positions
 
 |   - Led the development of multi-million dollar UV laser material processing systems
 
