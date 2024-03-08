@@ -4,9 +4,15 @@ feature_text: |
   ## <span style="color: white; font-weight: bold;">  </span>
 feature_image: "https://i.imgur.com/3NIXpKd.jpg"
 
+### - Alumni ventures scout - Jan 2024 - present
 ---
+### - CTO/Cofounder - Voxle - Sept 2023 - Feb 2024
+|   - Developing star-wars style table-top holograms using acoustic and optical levitation tech. Pre-seed round $650k+ raised.
 
-### - Amazon, Sr. PM-T - Connected devices and cloud services - 2023 to present
+|   - Hired and led 2 engineers to develop control codebase, prototype and physics simulator.
+
+---
+### - Amazon, Sr. PM-T - Connected devices and cloud services - May 2023 - Aug 2023
 ---
 ### - 0xygen.io, Co-Founder and CPO - 2021 to 2023
 
