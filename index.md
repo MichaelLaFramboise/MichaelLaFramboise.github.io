@@ -3,18 +3,20 @@ title: <center> Experience and Projects </center>
 feature_text: |
   ## <span style="color: white; font-weight: bold;">  </span>
 feature_image: "https://i.imgur.com/3NIXpKd.jpg"
+### Intro
+| I'm an engineer and entrepreneur, and am passionate about emerging technologies and their commercialization. My technical interests span mechanics, electronics, and CS. I've worked in several research engineering, sales, and PM positions in the automotive and semiconductor photonics industries and have founded two startups.
 
-### - Alumni ventures scout - Jan 2024 - present
+### Alumni ventures scout - Jan 2024 - present
 ---
-### - CTO/Cofounder - Voxle - Sept 2023 - Feb 2024
+### CTO/Cofounder - Voxle - Sept 2023 - Feb 2024
 |   - Developing star-wars style table-top holograms using acoustic and optical levitation tech. Pre-seed round $650k+ raised.
 
 |   - Hired and led 2 engineers to develop control codebase, prototype and physics simulator.
 
 ---
-### - Amazon, Sr. PM-T - Connected devices and cloud services - May 2023 - Aug 2023
+### Amazon, Sr. PM-T - Connected devices and cloud services - May 2023 - Aug 2023
 ---
-### - 0xygen.io, Co-Founder and CPO - 2021 to 2023
+### 0xygen.io, Co-Founder and CPO - 2021 to 2023
 |   [0xygen.io](https://www.0xygen.io/)
 
 
@@ -26,7 +28,7 @@ feature_image: "https://i.imgur.com/3NIXpKd.jpg"
 ---
 ### - Coherent, inc 2020-2022 - Various Semiconductor and photonics engineering and commercial sales management positions
 
-|   - Led the development of multi-million dollar UV laser material processing systems and sourced the deals
+|   - Led the development of multi-million dollar UV laser material processing systems
 
 |   - $20MM ARR in commercial sales my last year 
 
@@ -34,9 +36,8 @@ feature_image: "https://i.imgur.com/3NIXpKd.jpg"
 ## Fellowships
 - TSMC Innovation fellow - 2022 - 2024 [Fung institute announcement](https://funginstitute.berkeley.edu/news/2023-mba-meng-taiwan-semiconductor-manufacturing-fellowship/)
 - Consortium fellow - 2022-2024
-- Trione entrepreneurship fellow - 2023
 - Patrick DeNeale rennaisance fellow - 2023 - 2024
-
+- Trione entrepreneurship fellow - 2023
 
 ## Education
 - Columbia University - PhD, EECS Photonics 2024
