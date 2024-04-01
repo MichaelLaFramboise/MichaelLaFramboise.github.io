@@ -120,10 +120,7 @@ navigation_header:
   url: /
 - title: Lifting/Fitness
   url: /lifting_fitness/
-- title: Experience
-  url: /experience/
-- title: Search
-  url: /search/
+
 
 navigation_footer:
 - title: Created by Michael LaFramboise
