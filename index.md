@@ -1,21 +1,50 @@
 ---
-title: <center></center>
+title: <center> Experience and Projects </center>
 feature_text: |
-  ## <center><span style="color: black; font-weight: bold;"> Michael LaFramboise </span></center>
-feature_image: "https://i.imgur.com/j4T5YRs.jpg"
+  ## <span style="color: white; font-weight: bold;">  </span>
+feature_image: "https://i.imgur.com/3NIXpKd.jpg"
+
+I'm an engineer and entrepreneur, and am passionate about emerging technologies and their commercialization. My technical interests span mechanics, electronics and CS. I've worked in several research engineering, sales and PM positions in the automotive and semiconductor photonics industries and have founded two startups.
+
+### - Alumni ventures scout - Jan 2024 - present
+---
+### - CTO/Cofounder - Voxle - Sept 2023 - Feb 2024
+|   - Developing star-wars style table-top holograms using acoustic and optical levitation tech. Pre-seed round $650k+ raised.
+
+|   - Hired and led 2 engineers to develop control codebase, prototype and physics simulator.
 
 ---
+### - Amazon, Sr. PM-T - Connected devices and cloud services - May 2023 - Aug 2023
+---
+### - 0xygen.io, Co-Founder and CPO - 2021 to 2023
+|   [0xygen.io](https://www.0xygen.io/)
 
 
-I'm an engineer and entrepreneur, and am passionate about emerging technologies and their commercialization. My technical interests span mechanics, electronics and CS. I've worked in several research engineering, sales and PM positions in the automotive and semiconductor photonics industries and have founded two startups. 
+|   - Started and built web3 game API service to turn in-game assets into NFTs and vice-versa.
 
-## <center><span style="color: black; font-weight: bold;"> Experience </span></center>
-Most recently I started a company - Voxle - developing holography VR systems as CTO. We raised a pre-seed round and I hired two engineers to work with me.
 
-I worked as a Sr. PM-T at Amazon in their connected devices and cloud services division while studying at UC Berkeley's MBA/MEng program specializing in robotics and AI systems.
+|   - Brought on 4 developers, generated $50k in revenue and integrated company with our biggest client. Exited in 2023.
 
-Starting late 2021, some friends and I built [0xygen.io](https://www.0xygen.io/), a web3 startup developing an API gaming service. We bootstrapped, generated $50k in revenue and sold the company in the summer of 2023
+---
+### - Coherent, inc 2020-2022 - Various Semiconductor and photonics engineering and commercial sales management positions
 
+|   - Led the development of multi-million dollar UV laser material processing systems and sourced the deals
+
+|   - $20MM ARR in commercial sales my last year 
+
+---
+## Fellowships
+- TSMC Innovation fellow - 2022 - 2024 [Fung institute announcement](https://funginstitute.berkeley.edu/news/2023-mba-meng-taiwan-semiconductor-manufacturing-fellowship/)
+- Consortium fellow - 2022-2024
+- Trione entrepreneurship fellow - 2023
+- Patrick DeNeale rennaisance fellow - 2023 - 2024
+
+
+## Education
+- Columbia University - PhD, EECS Photonics 2024
+- University of California, Berkeley - MBA/MEng, Robotics and AI systems 2023 [Dropped out]
+- University of Michigan, Ann Arbor - MEng, Systems Engineering - Photonics 2021
+- Case Western Reserve University - BSE, Mechanical Engineering 2018
 
 
 
