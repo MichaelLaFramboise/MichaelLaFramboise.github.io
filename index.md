@@ -3,6 +3,7 @@ title: <center> Experience and Projects </center>
 feature_text: |
   ## <span style="color: white; font-weight: bold;">  </span>
 feature_image: "https://i.imgur.com/3NIXpKd.jpg"
+
 ### Intro
 | I'm an engineer and entrepreneur, and am passionate about emerging technologies and their commercialization. My technical interests span mechanics, electronics, and CS. I've worked in several research engineering, sales, and PM positions in the automotive and semiconductor photonics industries and have founded two startups.
 
