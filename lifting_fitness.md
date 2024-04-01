@@ -4,6 +4,7 @@ feature_text: |
 feature_image: "https://i.imgur.com/jZonLHo.jpg"
 excerpt: ""
 aside: true
+
 ---
 
 # UPDATE April 2024 - I'm running the Detroit marathon in october, so marathon training has been added to this routine
